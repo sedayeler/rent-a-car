@@ -15,3 +15,6 @@ C:\Users\asus\source\repos\project\Business\obj\Debug\net6.0\refint\Business.dll
 C:\Users\asus\source\repos\project\Business\obj\Debug\net6.0\Business.pdb
 C:\Users\asus\source\repos\project\Business\obj\Debug\net6.0\ref\Business.dll
 C:\Users\asus\source\repos\project\Business\obj\Debug\net6.0\Business.csproj.Up2Date
+C:\Users\asus\source\repos\project\Business\obj\Debug\net6.0\Business.sourcelink.json
+C:\Users\asus\source\repos\project\Business\bin\Debug\net6.0\Core.dll
+C:\Users\asus\source\repos\project\Business\bin\Debug\net6.0\Core.pdb
